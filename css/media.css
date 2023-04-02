@@ -1,0 +1,223 @@
+@media(max-width:1024px){
+    .SMOKEFIRE-pat h2 {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .SMOKEFIRE-pat h1 {
+        font-size: 30px;
+        font-weight: 500;
+    }
+    .SMOKEFIRE-pat p {
+        font-size: 14px;
+    }
+    .btn-now {
+        font-size: 14px;
+    }
+    .text h1 {
+        font-size: 30px;
+    }
+    .main p {
+        font-size: 14px;
+    }
+    .main h6 {
+        font-size: 15px;
+    }
+    .main h5 {
+        font-size: 14px;
+    }
+    .HOTDEAL h1 {
+        font-size: 30px;
+    }
+    .btn-SHOP {
+        font-size: 14px;
+    }
+    .center h2 {
+        font-size: 30px;
+    }
+    .new h1 {
+        font-size: 30px;
+    }
+    .ARRIVALS p {
+        font-size: 14px;
+    }
+    .ARRIVALS h5 {
+        font-size: 15px;
+    }
+    .ARRIVALS h3 {
+        font-size: 15px;
+    }
+    .LOVERS h1 {
+        font-size: 30px;
+    }
+    .BARBECUE p {
+        font-size: 14px;
+    }
+    .BARBECUE h6 {
+        font-size: 15px;
+    }
+    .sim h1 {
+        font-size: 30px;
+    }
+    .manin-section h5 {
+        font-size: 15px;
+    }
+    .conten p {
+        font-size: 14px;
+    }
+    .con p {
+        font-size: 14px;
+    }
+    .conten {
+        align-items: center;
+    }
+    .con {
+        align-items: center;
+    }
+    .font h5 {
+        font-size: 16px;
+       }
+       .font-2 p {
+           font-size: 14px;
+       }
+       .font-ratul P {
+           font-size: 14px;
+       }
+       .from-1 form input {
+           font-size: 14px;
+       }
+       .form-2 a {
+           font-size: 14px;
+       }
+       .form-2 {
+        top: 57%;
+        left: 78%;
+        transform: translate(-50%, -50%);
+    }
+
+
+
+}
+@media(max-width:768px){
+    .from-1 form input {
+        padding: 0;
+    }
+    .heithg {
+        min-height: 50vh;
+    }
+    .form-2 {
+        top: 45%;
+        left: 88%;
+        transform: translate(-50%, -50%);
+    }
+}
+@media(max-width:575px){
+    .heithg {
+        min-height: 40vh;
+    }
+    .SMOKEFIRE-pat h2 {
+        font-size: 13px;
+        font-weight: 500;
+    }
+    .SMOKEFIRE-pat h1 {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .SMOKEFIRE-pat p {
+        font-size: 12px;
+    }
+    .btn-now {
+        font-size: 12px;
+    }
+    .text h1 {
+        font-size: 20px;
+    }
+    .main p {
+        font-size: 12px;
+    }
+    .main h6 {
+        font-size: 16px;
+    }
+    .main h5 {
+        font-size: 13px;
+    }
+    .HOTDEAL h6 {
+        font-size: 15px;
+    }
+    .HOTDEAL h1 {
+        color: #fff;
+        font-size: 20px;
+    }
+    .btn-SHOP {
+        font-size: 12px;
+    }
+    .center h2 {
+        font-size: 20px;
+    }
+    .new h1 {
+        font-size: 20px;
+    }
+    .ARRIVALS p {
+        font-size: 12px;
+    }
+    .ARRIVALS h5 {
+        font-size: 16px;
+    }
+    .ARRIVALS h3 {
+        font-size: 13px;
+    }
+    .LOVERS h1 {
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .BARBECUE p {
+        font-size: 12px;
+    }
+    .BARBECUE h6 {
+        font-size: 13px;
+    }
+    .BARBECUE p {
+        font-size: 13px;
+    }
+    .sim h1 {
+        font-size: 20px;
+    }
+    .manin-section h5 {
+        font-size: 16px;
+    }
+    .conten p {
+        font-size: 12px;
+    }
+    .con p {
+        font-size: 12px;
+    }
+    .conten {
+        align-items: center;
+    }
+    .con {
+        align-items: center;
+    }
+    .font h5 {
+     font-size: 14px;
+    }
+    .font-2 p {
+        font-size: 12px;
+    }
+    .font-ratul P {
+        font-size: 12px;
+    }
+    .from-1 form input {
+        font-size: 12px;
+    }
+    .form-2 a {
+        font-size: 12px;
+    }
+    .form-2 {
+        position: absolute;
+        top: 56%;
+        left: 37%;
+        transform: translate(-50%, -50%);
+    }
+    .from-1 form input {
+        padding: 6px;
+    }
+}  
